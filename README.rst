@@ -12,7 +12,7 @@ Running
 
 Checkout this git repository, and execute the script:
 
-.. code-block::python
+.. code-block:: bash
 
    # python 3.6 is required, get it with pyenv
    # pyenv shell 3.6.2
